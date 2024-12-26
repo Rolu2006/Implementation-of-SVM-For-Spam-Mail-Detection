@@ -85,6 +85,7 @@ accuracy
 ![Screenshot 2024-12-26 103529](https://github.com/user-attachments/assets/75d179a9-d5e9-416d-a7ca-f152126ebe30)
 
 
+0.003587443946188341
 
 
 
